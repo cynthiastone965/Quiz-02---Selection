@@ -5,6 +5,7 @@ namespace Quiz_02___Selection
         public Form1()
         {
             InitializeComponent();
+            this.AutoScaleMode = AutoScaleMode.Font;
         }
 
         private void q04InstructionButton_Click(object sender, EventArgs e)
